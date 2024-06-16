@@ -1,4 +1,4 @@
-# Amazon Alexa Products Sentiment Analysis
+# Amazon Products Sentiment Analysis
 
 ## Description
 Performed sentiment analysis on Amazon Alexa product reviews to classify customer feedback into positive and negative sentiments.
